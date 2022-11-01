@@ -12,7 +12,7 @@ name = "ifiapp"
 authors = [Author('IFI', 'ifi@uio.no')]
 license = 'MIT'
 summary = 'Hello world application.'
-url = 'https://github.com/pycletic/flask-example'
+url = 'https://github.com/dervism/ifiapp_python'
 version = '0.0.1'
 
 default_task = ["clean", 'install_dependencies', 'analyze', 'publish']
