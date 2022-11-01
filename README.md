@@ -1,5 +1,16 @@
 # ifiapp-python
 
+## How to use PyBuilder
+
+1. Generate a new project:
+   `pyb --start-project`
+2. List all possible commands:
+   `pyb -t`
+3. Build, test and analyze the project:
+   `pyb` or `pyb -v` for verbose output
+4. Install all dependencies:
+   `pyb install_build_dependencies`
+
 ## Setup a Python project with PyBuilder
 
 1. Make to have Python installed
